@@ -407,7 +407,5 @@ cucumber/
 - **Edmund Husserl** -- *Prolegômenos à Lógica Pura*: contrassenso formal (*Widersinn*), teorias que se suprimem a si mesmas
 - **Mário Ferreira dos Santos** -- *Lógica e Dialética*: oposição privativa, suplência, dialética concreta
 - **Olavo de Carvalho** -- paralaxe cognitiva, contradição existencial, níveis de contradição (lógica, ontológica, espiritual)
-
 ## Nota de PR
 Este branch integra a camada de checagem simbólica via SymPy.
-
