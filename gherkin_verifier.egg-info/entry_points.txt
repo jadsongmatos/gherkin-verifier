@@ -1,0 +1,2 @@
+[console_scripts]
+gherkin-verify = gherkin_verifier.cli:main
